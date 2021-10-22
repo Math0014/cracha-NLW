@@ -1,7 +1,7 @@
 const social_media_links = {
    github: 'Math0014',
    facebook: "profile.php?id=100009239418794",
-   youtube: "math0014",
+   youtube: "UC5gBpfEOHNDpk2Csdk3imQQ",
    instagram: "matheusquerino14"
          }
          
